@@ -1,6 +1,6 @@
 # 🧠 Breast Cancer Detection AI
 
-Welcome to **BreastCancerAI**, a machine learning-powered tool designed to assist in early detection of breast cancer from medical images. This project leverages deep learning to classify breast images as **Benign** or **Malignant**, helping support healthcare professionals and awareness efforts.
+Welcome to **BreastCancerAI**, a machine learning-powered tool designed to assist in the early detection of breast cancer from medical images. This project leverages deep learning to classify breast images as **Benign** or **Malignant**, helping support healthcare professionals and awareness efforts.
 
 ## 🔬 About the Project
 
@@ -28,17 +28,19 @@ This application uses a trained convolutional neural network (CNN) model to pred
 
 Here’s how the interface works:
 
-- Upload sample image
+- Upload a sample image
 - View prediction instantly
 - Confidence score shown for transparency
 - Explains the prediction
 
   
  ## 📃 Datasets Used
+
 This project was trained using the following publicly available datasets:
 
-🔗 Breast Ultrasound Images Dataset (Benign, Malignant, Normal) – Kaggle
-Provided by Arya Shah, this dataset contains labeled breast ultrasound images grouped into three classes: Benign, Malignant, and Normal.
+- [**Breast Ultrasound Images Dataset (Benign, Malignant, Normal)** – Kaggle](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)  
+  Provided by **Arya Shah**, this dataset contains labeled breast ultrasound images grouped into three classes: **Benign**, **Malignant**, and **Normal**.
 
-🔗 UDIAT Diagnostic Breast Ultrasound Dataset – Kaggle
-This dataset contains images and corresponding findings from the UDIAT Diagnostic Centre, classified as benign or malignant, along with image metadata.
+- [**UDIAT Diagnostic Breast Ultrasound Dataset** – Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/udiat-diagnostic-breast-ultrasound-images)  
+  This dataset contains images and corresponding findings from the UDIAT Diagnostic Centre, classified as **benign** or **malignant**, along with image metadata.
+
