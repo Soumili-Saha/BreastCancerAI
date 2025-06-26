@@ -4,7 +4,7 @@ Welcome to **BreastCancerAI**, a machine learning-powered tool designed to assis
 
 ## 🔬 About the Project
 
-This application uses a trained convolutional neural network (CNN) model to predict the likelihood of breast cancer based on uploaded images (e.g., Ultradsound images). It is built using:
+This application uses a trained convolutional neural network (CNN) model to predict the likelihood of breast cancer based on uploaded images (e.g., Ultrasound images). It is built using:
 
 - 🧠 **TensorFlow/Keras** for model training
 - 🖼️ **Gradio** for an interactive web-based interface
@@ -16,7 +16,7 @@ This application uses a trained convolutional neural network (CNN) model to pred
 
 ## 🖼️ How to Use
 
-1. Upload an Ultrasound breast image .
+1. Upload a breast ultrasound image.
 2. The model will analyze the image and return one of:
    - ✅ **Benign**
    - ⚠️ **Malignant**
@@ -32,3 +32,5 @@ Here’s how the interface works:
 - View prediction instantly
 - Confidence score shown for transparency
 - Explains the prediction
+  
+  📃 Datasets Used
