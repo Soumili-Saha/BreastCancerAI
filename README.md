@@ -23,7 +23,7 @@ This application uses a trained convolutional neural network (CNN) model to pred
    - 😇 **Normal**
 3. Use the output to assist diagnosis (not a substitute for professional evaluation).
 
-> ⚠️ **Disclaimer:** This tool is for educational and research purposes only. Always consult a medical professional for actual diagnosis.
+> ⚠️ **Disclaimer:** This tool is for educational and research purposes only. Always consult a medical professional for an actual diagnosis.
 
 
 Here’s how the interface works:
@@ -41,6 +41,6 @@ This project was trained using the following publicly available datasets:
 - [**Breast Ultrasound Images Dataset (Benign, Malignant, Normal)** – Kaggle](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)  
   Provided by **Arya Shah**, this dataset contains labeled breast ultrasound images grouped into three classes: **Benign**, **Malignant**, and **Normal**.
 
-- [*UDIAT Breast Ultrasound Dataset** – Kaggle](https://www.kaggle.com/datasets/jarintasnim090/udiat-data)  
+- [**UDIAT Breast Ultrasound Dataset** – Kaggle](https://www.kaggle.com/datasets/jarintasnim090/udiat-data)  
   This dataset contains images and corresponding findings from the UDIAT Diagnostic Centre, classified as **benign** or **malignant**, along with image metadata.
 
