@@ -32,5 +32,13 @@ Here’s how the interface works:
 - View prediction instantly
 - Confidence score shown for transparency
 - Explains the prediction
+
   
-  📃 Datasets Used
+ ## 📃 Datasets Used
+This project was trained using the following publicly available datasets:
+
+🔗 Breast Ultrasound Images Dataset (Benign, Malignant, Normal) – Kaggle
+Provided by Arya Shah, this dataset contains labeled breast ultrasound images grouped into three classes: Benign, Malignant, and Normal.
+
+🔗 UDIAT Diagnostic Breast Ultrasound Dataset – Kaggle
+This dataset contains images and corresponding findings from the UDIAT Diagnostic Centre, classified as benign or malignant, along with image metadata.
