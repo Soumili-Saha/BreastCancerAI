@@ -41,6 +41,6 @@ This project was trained using the following publicly available datasets:
 - [**Breast Ultrasound Images Dataset (Benign, Malignant, Normal)** – Kaggle](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)  
   Provided by **Arya Shah**, this dataset contains labeled breast ultrasound images grouped into three classes: **Benign**, **Malignant**, and **Normal**.
 
-- [**UDIAT Diagnostic Breast Ultrasound Dataset** – Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/udiat-diagnostic-breast-ultrasound-images)  
+- [*UDIAT Breast Ultrasound Dataset** – Kaggle](https://www.kaggle.com/datasets/jarintasnim090/udiat-data)  
   This dataset contains images and corresponding findings from the UDIAT Diagnostic Centre, classified as **benign** or **malignant**, along with image metadata.
 
