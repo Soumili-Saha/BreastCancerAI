@@ -25,8 +25,7 @@ This application utilizes a **fine-tuned ResNet50 model** enhanced with **Grad-C
 
 ## 🌐 Live Demo
 
-👉 [**Try the Model**](#) – Upload your own ultrasound image and get an instant, explainable prediction.  
-_**(Coming soon / Replace # with your demo link)**_
+👉 [**Try the Model**](https://huggingface.co/spaces/SoumiliSaha/BreastCancerAI) 
 
 ---
 
